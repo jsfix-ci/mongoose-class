@@ -25,7 +25,7 @@
     "typescript": "^2.3.4"
   },
   "dependencies": {
-    "mongoose": "^4.10.0"
+    "mongoose": "^5.13.14"
   },
   "license": "MIT",
   "bugs": {
